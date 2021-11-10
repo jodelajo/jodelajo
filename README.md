@@ -1,4 +1,6 @@
+<div align="center">
 ![jodelajo](https://media.giphy.com/media/z3XUV8bYVVW7D2aohl/giphy.gif) 
+</div>
 
 ### Hi there 👋
 Nice to meet you!
