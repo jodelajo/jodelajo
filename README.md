@@ -17,7 +17,10 @@ My name is Joanneke and I'm a junior Frontend Developer. I've just completed my 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
 <img align="left" alt="GitHub" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+
+<img align="left" alt="GitHub" width="26px"  src="https://raw.githubusercontent.com/rdimascio/icons/master/icons/color/photoshop.svg" />
 <img align="left" alt="GitHub" width="26px"  src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" />
+<img align="left" alt="GitHub" width="26px"  src="https://raw.githubusercontent.com/rdimascio/icons/master/icons/color/indesign.svg" />
 <br />
 
 ---
