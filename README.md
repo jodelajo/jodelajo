@@ -24,6 +24,6 @@ My name is Joanneke and I'm a junior Frontend Developer. I've just completed my 
 <br />
 
 ---
-- 🌱 I’m currently learning Redux to expand my skills.
+- 🌱 I’m currently learning Nuxt, Vue and VUEX to expand my skills.
 - 📫 How to reach me: visit https://jodelajo.nl for more information and how to contact me. Or just email me jodelajo@gmail.com.
 
