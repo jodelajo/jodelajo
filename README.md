@@ -5,7 +5,7 @@
 ### Hi there 👋
 Nice to meet you!
 
-My name is Joanneke and I'm a junior Frontend Developer. I've just completed my frontend development training from Hogeschool Novi in Utrecht. I love to code and the challenge to solve issues. I'm currently part of a learning community which collaborate through the SCRUM method using version-control with daily standups. 
+My name is Joanneke and I'm a junior Frontend Developer. I've just completed my frontend development training from Hogeschool Novi in Utrecht. I love to code and the challenge to solve issues.
 
 **Languages and Tools:**
 
@@ -24,6 +24,6 @@ My name is Joanneke and I'm a junior Frontend Developer. I've just completed my 
 <br />
 
 ---
-- 🌱 I’m currently learning Nuxt, Vue and VUEX to expand my skills.
+- 🌱 I’m currently learning Laravel and PHP to expand my skills and become a more full-stack developer.
 - 📫 How to reach me: visit https://jodelajo.nl for more information and how to contact me. Or just email me jodelajo@gmail.com.
 
