@@ -5,7 +5,7 @@
 ### Hi there 👋
 Nice to meet you!
 
-My name is Joanneke and I'm a junior Frontend Developer. I've just completed my frontend development training from Hogeschool Novi in Utrecht. I love to code and the challenge to solve issues.
+My name is Joanneke and I'm a junior Frontend Developer. I'm a frontend developer, employeed by Opencii. Focussed on mastering backend skills.
 
 **Languages and Tools:**
 
