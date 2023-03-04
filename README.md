@@ -5,7 +5,7 @@
 ### Hi there 👋
 Nice to meet you!
 
-My name is Joanneke and I'm a frontend developer, employeed by https://www.opencii.nl/. Focused on mastering backend skills.
+My name is Joanneke and I'm a frontend developer, currently employeed by [Opencii](https://www.opencii.nl/). Focused on mastering backend skills.
 
 **Languages and Tools:**
 
