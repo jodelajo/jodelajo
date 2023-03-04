@@ -24,6 +24,6 @@ My name is Joanneke and I'm a junior Frontend Developer. I'm a frontend develope
 <br />
 
 ---
-- 🌱 I’m currently learning Laravel and PHP to expand my skills and become a more full-stack developer.
+- 🌱 I’m currently learning SQL, mySQL and postgresQL to expand my skills and become a more full-stack developer.
 - 📫 How to reach me: visit https://jodelajo.nl for more information and how to contact me. Or just email me jodelajo@gmail.com.
 
